@@ -1,0 +1,23 @@
+{
+  "name": "LMPromo",
+  "version": "2.0",
+  "description": "Reports Lords Mobile promo codes listed at https://www.mejoress.com/en/lords-mobile-codes/ on command !promo",
+  "main": "LMPromo.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neverson42/LMPromo.git"
+  },
+  "author": "Nick Everson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neverson42/LMPromo/issues"
+  },
+  "homepage": "https://github.com/neverson42/LMPromo#readme"
+}
